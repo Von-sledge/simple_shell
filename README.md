@@ -17,13 +17,22 @@ This program was written entirely in C Language.
 
 ## Description
 This is a shell built with the [C programming language](https://en.wikipedia.org/wiki/C_(programming_language))
-It is based on the ...
+It is based on the [the Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell)
 
 ## Environment
+The shell was buil and teste on the Ubuntu 14.04 LTS
 
 ## Features
+* Display prompt ($) and waits for the user to type a command
+* Prints error if executable cannot be found and displays the prompt again
 
 ## Installation
+* First fork this repository
+* Clone your own fork of the repository
+* Create an executable by running the following command:
+```gcc -Wall -Werror -Wextra -pedantic *.c -o hsh```
+* Type the command ```./hsh``` 
+* You now have access to the shell and can use Linux commands
 
 ## Contributors
 * [**Papa Amoah**](https://github.com/Von-sledge)
