@@ -29,7 +29,7 @@ It is based on the ...
 * [**Papa Amoah**](https://github.com/Von-sledge)
 * [**George Imhandegbelo**](https://github.com/Imhandegbelo)
 
-## Aknowledments
+## Acknowledgements
 - Dennis Ritchie (who we all have to thank for the C language)
 - Julien Barbier (who designed this challenge to help us)
 - ALX Africa (for the uncommon opportunity granted us)
